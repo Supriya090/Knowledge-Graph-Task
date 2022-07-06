@@ -1,4 +1,6 @@
-# Knowledge Graph Task
+# OnlineKhabar Knowledge Graph
+
+A Knowledge Graph made out of articles from business section of Online Khabar - English
 
 - Web Scraping using BeautifulSoup
 - Sentence Segmentation and Entity Pair Extraction using spaCy
